@@ -27,8 +27,8 @@ main();
 
 ## Example Output
 ![Generated Image](image.png)
-![Generated Image 2](cropped_image-1.png)
-![Generated Image 3](cropped_image-2.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## API
 ### `rexzimagine.response(prompt: string) => Promise<string>`
