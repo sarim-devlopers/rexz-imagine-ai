@@ -26,9 +26,7 @@ main();
 ```
 
 ## Example Output
-![Generated Image](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+
 
 ## API
 ### `rexzimagine.response(prompt: string) => Promise<string>`
