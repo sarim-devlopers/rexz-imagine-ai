@@ -26,7 +26,9 @@ main();
 ```
 
 ## Example Output
-
+![Generated Image 1](https://github.com/ExE-Venom/rexz-imagine-ai/blob/main/cropped_image.png)
+![Generated Image 2](https://github.com/ExE-Venom/rexz-imagine-ai/blob/main/cropped_image-1.png) 
+![Generated Image 3](https://github.com/ExE-Venom/rexz-imagine-ai/blob/main/cropped_image-2.png) 
 
 ## API
 ### `rexzimagine.response(prompt: string) => Promise<string>`
